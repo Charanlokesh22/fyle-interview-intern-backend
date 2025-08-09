@@ -6,7 +6,6 @@ There are 5 resources:
 - Students
 - Teachers
 - Assignments
-
 5 Users (1 Principal, 2 students and 2 teachers) have already been created for you in the db fixture
 
 - A principal can view all the teachers
