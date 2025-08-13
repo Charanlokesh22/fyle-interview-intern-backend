@@ -1,6 +1,5 @@
 import os
 
-
 # https://docs.gunicorn.org/en/stable/settings.html
 
 proc_name = 'fyle-interview-be'
